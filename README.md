@@ -1,8 +1,7 @@
 # Chip-8-Interpreter
 "CHIP-8 is a programming language and virtual machine (VM) that was created in the 1970s. 
 It was initially designed for the COSMAC VIP and Telmac 1800 8-bit microcomputers to make game development easier. 
-The CHIP-8 VM was not tied to any specific hardware architecture, allowing it to be implemented on various platforms.
-I initially faced uncertainty regarding the entry point for delving into game emulation."
+The CHIP-8 VM was not tied to any specific hardware architecture, allowing it to be implemented on various platforms."
 
 # Goal
 My goal was to create a Nintendo DS emulator due to nostalgia but after advice from others, 
